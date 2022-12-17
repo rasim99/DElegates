@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.exe
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.deps.json
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.runtimeconfig.json
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.dll
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\bin\Debug\netcoreapp3.1\Delegates3.pdb
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.dll
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.pdb
+C:\Users\ASUS\Desktop\Delegates\Delegates3\Delegates3\obj\Debug\netcoreapp3.1\Delegates3.genruntimeconfig.cache
